@@ -43,6 +43,12 @@ denoising images using dental image dataset
    <img src="https://private-user-images.githubusercontent.com/133969661/333787110-ef67e6ac-48e1-4bd7-9e47-7d9314abccd1.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY2Mjk3NTgsIm5iZiI6MTcxNjYyOTQ1OCwicGF0aCI6Ii8xMzM5Njk2NjEvMzMzNzg3MTEwLWVmNjdlNmFjLTQ4ZTEtNGJkNy05ZTQ3LTdkOTMxNGFiY2NkMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyNVQwOTMwNThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNGMwNGFhN2QyMDc1M2VmMTYzYzU1MTMyODc1YTU1MTA3ZmFkN2Q1MDBjMDNiMzk1YzE3MDhlZjc0ZWQxM2RjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.oqIGn_j0dfN0npyQnJBXk3TxX5DdZfxAZFKuGpYj4sM" alt="Noisy Image">
 
   <p>While the current results are promising, it's important to note that training the model for more epochs, such as 100 epochs or more, is expected to significantly improve the results. With extended training, the model has more opportunities to learn and fine-tune its weights, leading to higher accuracy and lower loss. Consequently, the denoised images will exhibit better quality, with reduced noise and enhanced details.</p>
-    </div>
+
+<h2>Resources</h2>
+<a href="https://arxiv.org/pdf/1608.04667v2">https://arxiv.org/pdf/1608.04667v2</a>
+
+
+  
+</div>
 </body>
 </html>
